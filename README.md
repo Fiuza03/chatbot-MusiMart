@@ -1,14 +1,10 @@
-<img width="997" alt="image" src="https://github.com/user-attachments/assets/5bdc42de-e5fd-4200-bb8d-e001cc5166f7">
-
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
-
 # Titulo do projeto
 
-4240 - Python e Gemini: crie seu chatbot com IA Generativa
+Python e Gemini: crie seu chatbot com IA Generativa
 
 ## 🔨 Funcionalidades do projeto
 
-Neste projeto vamos construir um chatbot utilizando a API do Gemini. Para isso utilizaremos uma aplicação base escrita em Flask, utilizando Python e com uma Interface desenhada em HTML, CSS e JS. 
+Neste projeto vamos construir um chatbot utilizando a API do Gemini. Para isso iremos utilizar uma aplicação base escrita em Flask, utilizando Python e com uma Interface desenhada em HTML, CSS e JS. 
 
 ![](img/amostra.gif)
 
